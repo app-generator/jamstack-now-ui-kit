@@ -1,0 +1,17 @@
+{
+    "copy"           : "AppSeed", 
+    "email"          : "support@appseed.us",
+    "design"         : "Now UI by Creative-Tim",
+
+    "seo_title"      : "JAMstack - Now UI design by Creative-Tim | AppSeed",
+    "seo_desc"       : "JAMstack app with Now UI design crafted by Creative-Tim.",
+
+    "product"        : "https://github.com/app-generator/jamstack-now-ui-kit", 
+    "github"         : "https://github.com/app-generator/jamstack-now-ui-kit",
+    "facebook"       : "https://facebook.com/webappseed",
+    "twitter"        : "https://twitter.com/webappseed",
+    "support"        : "https://appseed.us/support",
+    "discord"        : "https://discord.gg/fZC6hup",
+
+    "LAST_KEY" : "NA"
+}
