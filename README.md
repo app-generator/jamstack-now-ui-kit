@@ -1,4 +1,4 @@
-# [JAMstack Now UI](https://jamstack-now-ui-kit.appseed.us)
+# [JAMstack Now UI](https://appseed.us/apps/jamstack/jamstack-now-ui-kit)
 
 Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on top of [Now UI](https://demos.creative-tim.com/now-ui-kit/) design.
 
@@ -35,4 +35,4 @@ Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on t
 <br />
 
 ---
-[JAMstack Now UI](https://jamstack-now-ui-kit.appseed.us) - provided by **AppSeed**
+[JAMstack Now UI](https://appseed.us/apps/jamstack/jamstack-now-ui-kit) - provided by **AppSeed**
